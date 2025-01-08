@@ -65,3 +65,5 @@ DELETE FROM tb_produtos WHERE id = 8;
 DELETE FROM tb_produtos WHERE id = 11;
 DELETE FROM tb_produtos WHERE id = 10;
 DELETE FROM tb_produtos WHERE id = 2;
+
+
